@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logger.clsFun" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABBwIACAAEAiMAAAAABAAIAAAAAAAA=</HashCode>
+      <FileName>clsFun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.EngDialog" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAAgEKAAAAAAAECgABACAADQQBABAKAAAjIAAgA=</HashCode>
+      <FileName>EngDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.frmConf" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>x9NpgJQJnv0xxNWT1gGBhALaBpP/5wEAeGAKrwA0LH4=</HashCode>
+      <FileName>frmConf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.frmInOut" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAgYADgACBABDACBAAhCIAY4zwGBUMAQACCAAgA=</HashCode>
+      <FileName>frmInOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.frmLEfiles" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAEAACAAAACAQAIAAAAAEAAAAAAAAE=</HashCode>
+      <FileName>frmLEfiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.frmMain" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>M/0H+c9/7v8oaH9I5f+9zXub//r/QbXl7/2vpYneP38=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.frmProject" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIMBAAAAECEAgAAABECA0DgCgBgwcAwBAQACCAACAAA=</HashCode>
+      <FileName>frmProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.frmRStatus" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAACAADAAAAQAAAKAAAACAAAZAAAAAGAAAAABAAA=</HashCode>
+      <FileName>frmRStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.frmSysP" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jygBgEAgEaAEgN8+ZGLgULhGAPj9sQAAESQ+AwEA/zA=</HashCode>
+      <FileName>frmSysP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.Global" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwW/6ZuddCnDRvxq7t1qcRuz5Fu52t2JPLVFw8y/eys=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.Program" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.frmShowData" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAACAwABASAACAAAACAAAAQQAAAJAgAB4AAAA=</HashCode>
+      <FileName>frmShowData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAIBEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User_32" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAgAAAAAAAAAAAAAAEAAAAAAAACQAAAAKQAA=</HashCode>
+      <FileName>Resolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resolution.CResolution" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Logger.DoBitInformation" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAACQAABAAAAAQ=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DEVMODE1" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAgAIwCAEAAFAABEAQAAAAGAAkyijABcAAAEkAAUA=</HashCode>
+      <FileName>Resolution.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Logger">
+</Property><Property Name="Solution File" Value="C:\Dynlec_Edac_PI\Logger\Logger.sln">
+</Property><Property Name="Date" Value="Monday, October 01, 2012">
+</Property><Property Name="Time" Value="14:58 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Logger" Source="Logger.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Logger" Source="Logger.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Logger.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Logger.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Logger" Source="Logger.csproj" Description="References to Microsoft.VisualBasic.PowerPacks.Vs were updated to Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event><Event ErrorLevel="0" Project="Logger" Source="Logger.csproj" Description="References to Microsoft.VisualBasic.PowerPacks.Vs were updated to Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event></UpgradeLog>
